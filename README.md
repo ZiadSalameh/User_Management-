@@ -17,16 +17,13 @@ HEAD
 3. **Roles and Permissions**
    - Assign multiple roles to users
    - Access control for API endpoints based on roles
-4. **API Ready**
-   - JSON responses with proper status codes (200, 201, 401, 404)
-   - Easy integration with frontend apps
----
-5. ##  Requirements
+
+4. ##  Requirements
 - Laravel 11
 - MySQL 
 - Git
 
 
-# User_Management-
+<!-- # User_Management-
 Laravel-Project
- 40d2e9b15cdb1635d32801f0bd54b0d7dfb66af5
+ 40d2e9b15cdb1635d32801f0bd54b0d7dfb66af5 -->
